@@ -7,4 +7,9 @@
     <string name="mobile_number">01639-762025</string>
     <string name="email_icon">Email Icon</string>
     <string name="email">bijoycsepu@gmail.com</string>
+    <string name="front_side">Front Side</string>
+    <string name="address">Dhaka, Bangladesh</string>
+    <string name="back_side">Back Side</string>
+    <string name="ofc_address">House #629-685, Road # 12, Baitul Aman Housing Society, Adabor, Mohammadpur, Dhaka-1207, BD.</string>
+    <string name="office_logo">Office Logo</string>
 </resources>

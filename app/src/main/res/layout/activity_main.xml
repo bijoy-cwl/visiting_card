@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="15dp"
-        android:text="Front Side"
+        android:text="@string/front_side"
         android:textAllCaps="true"
         android:layout_marginTop="8dp"
         android:textColor="@color/black"
@@ -150,7 +150,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="30dp"
                 android:layout_marginTop="5dp"
-                android:text="Dhaka, Bangladesh"
+                android:text="@string/address"
                 android:textColor="@color/white"
                 android:textSize="14sp"
                 app:layout_constraintStart_toEndOf="@id/profileIV"
@@ -168,7 +168,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="15dp"
-        android:text="Back Side"
+        android:text="@string/back_side"
         android:textAllCaps="true"
         android:layout_marginTop="8dp"
         android:textColor="@color/black"
@@ -201,7 +201,7 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
-                 />
+                android:contentDescription="@string/office_logo" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -209,7 +209,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="15dp"
                 android:textSize="12sp"
-                android:text="House #629-685, Road # 12, Baitul Aman Housing Society, Adabor, Mohammadpur, Dhaka-1207, BD."
+                android:text="@string/ofc_address"
                 android:textColor="@color/black"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
