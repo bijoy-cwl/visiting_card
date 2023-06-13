@@ -1,2 +1,2 @@
 # visiting card with Photo design
-![alt text](https://github.com/bijoy-cwl/visiting_card/screenshots/s1.jpg?raw=true)
+![alt text](https://github.com/bijoy-cwl/visiting_card/blob/main/screenshots/s1.jpg)
